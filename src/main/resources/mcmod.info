@@ -1,0 +1,17 @@
+[{
+
+"modid": "ane",
+"name": "Another Nether Expansion",
+"description": "This is a mod that aims to add more features and progression to the Nether.",
+"mcversion": "1.7.10",
+"version": "Alpha 1.6.1",
+"url": "", 
+"updateUrl": "",
+"authors": [ "ZMarotrix" ],
+"credits": "Thanks to MrCrayFish and Neale for the 1.7 tutorials!",
+"logoFile": "",
+"screenshots": [], 
+"parent":"", 
+"dependencies": [ ]
+
+}]

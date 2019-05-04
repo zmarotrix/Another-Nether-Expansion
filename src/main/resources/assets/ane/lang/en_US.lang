@@ -1,0 +1,69 @@
+item.ane:lonsdaleite_.name=lonsdaleite_
+tile.ane:lonsdaleite_ore.name=Lonsdaleite Ore
+item.ane:lonsdaleite_nugget.name=Lonsdaleite Shard
+tile.ane:lonsdaleite_block.name=Lonsdaleite Block
+
+item.ane:celenegil_ingot.name=Celenegil Ingot
+tile.ane:celenegil_ore.name=Celenegil Ore
+item.ane:celenegil_nugget.name=Celenegil Nugget
+tile.ane:celenegil_block.name=Celenegil Block
+
+item.ane:fyrestone_ingot.name=Fyrestone Brick
+tile.ane:fyrestone.name=Fyrestone
+item.ane:fyrestone_shard.name=Fyrestone Shard
+tile.ane:fyrestone_brick.name=Fyrestone Bricks
+tile.ane:smoldering_obsidian_brick.name=Smoldering Obsidian Brick
+
+item.ane:adamantine_ingot.name=Adamantine Ingot
+tile.ane:adamantine_ore.name=Adamantine Ore
+item.ane:adamantine_nugget.name=Adamantine Nugget
+tile.ane:adamantine_block.name=Adamantine Block
+
+
+item.ane:lonsdaleite__pickaxe.name=Lonsdaleite Pickaxe
+item.ane:lonsdaleite_axe.name=Lonsdaleite Axe
+item.ane:lonsdaleite_sword.name=Lonsdaleite Sword
+item.ane:lonsdaleite_hoe.name=Lonsdaleite Hoe
+item.ane:lonsdaleite_shovel.name=Lonsdaleite Shovel
+
+item.ane:celenegil_pickaxe.name=Celenegil Pickaxe
+item.ane:celenegil_axe.name=Celenegil Axe
+item.ane:celenegil_sword.name=Celenegil Sword
+item.ane:celenegil_hoe.name=Celenegil Hoe
+item.ane:celenegil_shovel.name=Celenegil Shovel
+
+item.ane:fyrestone_pickaxe.name=Fyrestone Pickaxe
+item.ane:fyrestone_axe.name=Fyrestone Axe
+item.ane:fyrestone_sword.name=Fyrestone Sword
+item.ane:fyrestone_hoe.name=Fyrestone Hoe
+item.ane:fyrestone_shovel.name=Fyrestone Shovel
+
+item.ane:adamantine_pickaxe.name=Adamantine Pickaxe
+item.ane:adamantine_axe.name=Adamantine Axe
+item.ane:adamantine_sword.name=Adamantine Sword
+item.ane:adamantine_hoe.name=Adamantine Hoe
+item.ane:adamantine_shovel.name=Adamantine Shovel
+
+
+item.ane:lonsdaleite_chestpiece.name=Lonsdaleite Chestpiece
+item.ane:lonsdaleite_helmet.name=Lonsdaleite Helmet
+item.ane:lonsdaleite_leggings.name=Lonsdaleite Leggings
+item.ane:lonsdaleite_boots.name=Lonsdaleite Boots
+
+item.ane:celenegil_chestpiece.name=Celenegil Chestpiece
+item.ane:celenegil_helmet.name=Celenegil Helmet
+item.ane:celenegil_leggings.name=Celenegil Leggings
+item.ane:celenegil_boots.name=Celenegil Boots
+
+item.ane:adamantine_chestpiece.name=Adamantine Chestpiece
+item.ane:adamantine_helmet.name=Adamantine Helmet
+item.ane:adamantine_leggings.name=Adamantine Leggings
+item.ane:adamantine_boots.name=Adamantine Boots
+
+item.ane:fyrestone_chestpiece.name=Fyrestone Chestpiece
+item.ane:fyrestone_helmet.name=Fyrestone Helmet
+item.ane:fyrestone_leggings.name=Fyrestone Leggings
+item.ane:fyrestone_boots.name=Fyrestone Boots
+
+
+itemGroup.tabANE=Another Nether Expansion
